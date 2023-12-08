@@ -2,10 +2,10 @@
 ## Introduction
 The gym trainer app presents a robust mobile application developed to aid gym-goers in a variety of ways, increasing the efficiency of the training while reducing the risk of health hazards due to over-exertion.
 
-The application is developed as part of Object Oriented Analysis & Design course, by the team members:
+The application is developed as part of the Object Oriented Analysis & Design course, by the team members:
 1. [Fowzaan (2021503017)](https://github.com/gitzaan)
 2. [Pronoy (2021503539)](https://github.com/Pronoy513)
-3. [Sachin (2021503043)]()
+3. [Sachin (2021503043)](https://github.com/SachinSarv1473)
 4. [Som (2021503561)](https://github.com/som14159)
 
 
