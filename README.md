@@ -9,9 +9,13 @@ The application is developed as part of Object Oriented Analysis & Design course
 4. [Som (2021503561)](https://github.com/som14159)
 
 
-## Dart and Flutter
+
+
+## Technologies used
+### Dart 
 Dart is a modern, client-optimized programming language optimized for building mobile, desktop, server, and web applications. It serves as the foundation for our project.
 
+### Flutter
 Flutter is Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase. Flutter uses the Dart programming language and provides a rich set of pre-designed widgets for creating modern, responsive user interfaces.
 
 ## Getting Started
